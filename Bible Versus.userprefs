@@ -1,0 +1,13 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="..\Qwerty Quest\Assets\Scripts\EnemyScript.js">
+    <Files>
+      <File FileName="..\Qwerty Quest\Assets\Scripts\WordEntryScript.js" Line="8" Column="73" />
+      <File FileName="..\Qwerty Quest\Assets\Scripts\EnemyScript.js" Line="8" Column="56" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
