@@ -1,9 +1,8 @@
 ﻿<Properties>
   <MonoDevelop.Ide.Workspace />
-  <MonoDevelop.Ide.Workbench ActiveDocument="..\Qwerty Quest\Assets\Scripts\EnemyScript.js">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\FadeScript.js">
     <Files>
-      <File FileName="..\Qwerty Quest\Assets\Scripts\WordEntryScript.js" Line="8" Column="73" />
-      <File FileName="..\Qwerty Quest\Assets\Scripts\EnemyScript.js" Line="8" Column="56" />
+      <File FileName="Assets\Scripts\FadeScript.js" Line="30" Column="22" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
